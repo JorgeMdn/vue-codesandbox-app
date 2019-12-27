@@ -2,6 +2,7 @@
   <div class="hello container">
     <h1>{{ msg }}</h1>
     <h2>{{id_modal}}</h2>
+    <h2>{{msj}}</h2>
     <h3>Installed CLI Plugins</h3>
     <ul>
       <li>
